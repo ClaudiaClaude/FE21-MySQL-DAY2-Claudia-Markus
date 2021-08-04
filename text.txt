@@ -1,0 +1,10 @@
+# Exercise
+
+Use exercises from the previous two days and make sure that your databases are in 3rd Normal Form.  Insert some data into your databases. After that, you should create different queries on these databases using 4 different types of JOINS.
+
+**Note:** You have 6 different exercises from Monday (Database development). Try to do as many exercises as possible:
+
+Use 4 steps for the database development process - ensure that your database is in 3rd Normal Form.
+Create a database in MySQL
+Insert some data into a database
+Create at least 7 different queries using 4 different types of JOINS
